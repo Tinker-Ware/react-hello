@@ -56,7 +56,7 @@ const helloFactory = function ({ React }) {
         };
 
         return (
-          <p>Hello,&nbsp;
+          <p>Tinkerware says Hello,&nbsp;
             <span
               style = { styles.displayMode }
               onClick = { () => setMode('edit') }
